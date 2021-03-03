@@ -18,6 +18,7 @@ This is a backend focused blog application built with django web framework.
 
 ### Prerequisites
 You should have Python 3x installed on your machine.
+You should have PostgreSQL installed on your machine for complex search system.
 
 ### Installation
 Just make a virtual environment in the project directory and activate it.
