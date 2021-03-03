@@ -1,4 +1,5 @@
-## Cryst 
+### Cryst
+Blog application backend
 <br/>
 
 ## About The Project
@@ -37,7 +38,6 @@ Then start the development server.
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
 
-<br/>
 
 ## Contact
 Shivam Maithil - shivammaithil1008@gmail.com
